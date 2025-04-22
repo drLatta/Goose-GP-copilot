@@ -1,6 +1,3 @@
-# Goose-GP-copilot
-A modular GPT-based copilot built by a GP, for GPs — optimize your clinical workflow, one command at a time
-
 # Goose GP Copilot — AI-Powered Prompt Framework for General Practice  
 *Version 2.6 | Open-source clinical tool built by a frontline GP*
 
@@ -36,12 +33,41 @@ Goose uses a command system to handle:
 
 ## 📦 How to Use It
 
-1. Open ChatGPT (or any GPT-4 model)
-2. Paste in the [full Goose 2.6 prompt](./Goose_2.6_Clinical_AI_Copilot.md)
-3. Start your command with:
-   - `o/:` to optimize a note
-   - `s/:` to summarize it
-   - `e/:` to draft a patient email
+1. Open ChatGPT (or any GPT-4 model)  
+2. Paste in the [full Goose 2.6 prompt](./Goose_2.6_Clinical_AI_Copilot.md)  
+3. Start your command with:  
+   - `o/:` to optimize a note  
+   - `s/:` to summarize it  
+   - `e/:` to draft a patient email  
    - etc.
 
-Example:
+### Example:
+
+o/:
+Male, 48, came in with shoulder pain. Old sports injury, now worse after lifting. No red flags.
+
+Goose will return a clean, structured note in SOAP format with key actions bolded and spacing optimized for readability.
+
+---
+
+## 🛡️ License
+
+This project is licensed under the **MIT License** — use it, remix it, just keep the credit and the mission spirit.  
+See the [LICENSE](./LICENSE) file.
+
+---
+
+## 👋 About the Author
+
+**Dr Andrea Lattarulo** is a full-time GP with 14+ years of experience, currently based in New Zealand.  
+Former military medical officer. Now building tools that work *in the trenches* of primary care.
+
+Follow on [LinkedIn](https://www.linkedin.com/in/andrea-lattarulo-73b03958/)  
+Read the dev log: [GP-AI Notion Logbook](https://lydian-ocean-b94.notion.site/GP-AI-experience-logbook-1cd6322f1958808ab7d4fe8fd8afdbfe)
+
+---
+
+## ☕ Want to Collaborate?
+
+If you're building tools for EMR integration, GP-AI workflows, or frontline safety systems — let’s talk.  
+Goose 2.6 is just the beginning.
