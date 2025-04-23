@@ -71,3 +71,5 @@ Read the dev log: [GP-AI Notion Logbook](https://lydian-ocean-b94.notion.site/GP
 
 If you're building tools for EMR integration, GP-AI workflows, or frontline safety systems — let’s talk.  
 Goose 2.6 is just the beginning.
+
+➡️ [Read the Ethics, Usage & Oversight Statement](./ETHICS_AND_USAGE.md)
