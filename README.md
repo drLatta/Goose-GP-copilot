@@ -2,6 +2,7 @@ Goose GP Copilot
 
 A modular, open-source AI prompt system designed for general practitioners. Created by Dr. Andrea Lattarulo, this tool is built to streamline documentation, referrals, patient communication, and workflow — without compromising clinical oversight or ethical standards.
 
+Goose is not an AI model — it’s a structured system of prompts designed to run on top of GPT-4 (or other LLMs), built specifically for real-world general practice tasks.
 
 ---
 
