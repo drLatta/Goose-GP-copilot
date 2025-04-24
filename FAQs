@@ -66,3 +66,19 @@ Yes. Goose is licensed under the MIT License — free to use, modify, and build 
 10. Why is it called "Goose"?
 
 A nod to the Top Gun copilot — because no GP should fly solo. Goose is your wingman: fast, reliable, sharp, and never burnout-prone.
+
+
+
+Tried inserting the direct FAQ link right above the “License” section in your README, but the update failed because the pattern ## License wasn't recognized in the doc (likely due to formatting or missing heading).
+
+No worries — here’s what you can manually copy and paste just above your License section:
+
+
+---
+
+FAQ
+
+Have more questions? See the FAQ – Goose GP Copilot (GitHub view) for answers about use, safety, scope, and contribution.
+
+
+---
