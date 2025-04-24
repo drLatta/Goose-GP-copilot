@@ -89,7 +89,7 @@ Future updates will ensure greater inclusivity and ease of adoption for all clin
 FAQ
 
 Have more questions?
-See the FAQ – Goose GP Copilot for answers about use, safety, scope, and contribution.
+See the FAQ – Goose GP Copilot for answers about use, safety, scope, and contribution
 
 
 ---
