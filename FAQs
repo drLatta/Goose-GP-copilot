@@ -68,17 +68,8 @@ Yes. Goose is licensed under the MIT License — free to use, modify, and build 
 A nod to the Top Gun copilot — because no GP should fly solo. Goose is your wingman: fast, reliable, sharp, and never burnout-prone.
 
 
-
-Tried inserting the direct FAQ link right above the “License” section in your README, but the update failed because the pattern ## License wasn't recognized in the doc (likely due to formatting or missing heading).
-
-No worries — here’s what you can manually copy and paste just above your License section:
-
-
 ---
 
-FAQ
+11: Is Goose its own AI or language model?
 
-Have more questions? See the FAQ – Goose GP Copilot (GitHub view) for answers about use, safety, scope, and contribution.
-
-
----
+No. Goose is not an AI in itself. It’s a modular system of prompts and interaction patterns designed to run on top of large language models like GPT-4, structured to support real GPs in real clinic work.
