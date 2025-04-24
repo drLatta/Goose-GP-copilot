@@ -1,0 +1,68 @@
+Goose GP Copilot – FAQ
+
+1. What is Goose?
+
+Goose is a modular, prompt-based AI copilot designed to help general practitioners streamline documentation, referrals, patient communication, and summarization — without replacing clinical decision-making.
+
+
+---
+
+2. Is Goose a medical device?
+
+No. Goose is not a regulated medical device. It is a productivity tool based on language model prompts. It is designed to assist — not direct — clinical work.
+
+
+---
+
+3. Can Goose make clinical decisions?
+
+No. Goose never makes diagnoses or initiates treatment. It helps clinicians think, write, and organize — the final decision is always the GP’s responsibility.
+
+
+---
+
+4. Can I use real patient data with Goose?
+
+Only if de-identified. Goose is designed for use in temporary or no-memory environments, and the c/ command is provided to help strip identifiable content from clinical text.
+
+
+---
+
+5. Does this replace my EMR?
+
+No. Goose is not an EMR. It is a layer of structured support for writing, summarizing, and communicating within or alongside your existing system.
+
+
+---
+
+6. Who created Goose?
+
+Dr. Andrea Lattarulo — a frontline GP based in New Zealand with a background in military medicine and a passion for AI-enhanced clinical workflows.
+
+
+---
+
+7. How accurate is Goose?
+
+Goose is highly accurate for structured outputs (e.g., notes, summaries, comms), but it does not replace clinical judgment. Every output must be reviewed before use.
+
+
+---
+
+8. Has Goose been validated?
+
+Goose is currently in real-world clinical use and undergoing feasibility evaluation. An observational study is in preparation to assess its impact on workload, accuracy, and clinician experience.
+
+
+---
+
+9. Can I contribute or fork the project?
+
+Yes. Goose is licensed under the MIT License — free to use, modify, and build upon. Attribution must be retained and the license must remain with all versions.
+
+
+---
+
+10. Why is it called "Goose"?
+
+A nod to the Top Gun copilot — because no GP should fly solo. Goose is your wingman: fast, reliable, sharp, and never burnout-prone.
