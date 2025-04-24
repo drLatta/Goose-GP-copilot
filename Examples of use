@@ -1,0 +1,90 @@
+Goose GP Copilot – Usage Cheat Sheet for Clinicians
+
+This 1-page guide shows how to use each Goose command in real-world general practice. It’s optimized for new users and internal testers.
+
+
+---
+
+How It Works
+
+Paste the main Goose prompt into ChatGPT (GPT-4), then use the commands below during a temporary/no-memory session. Always review AI output before adding to a patient record.
+
+
+---
+
+Core Commands
+
+o/ — Optimize Notes
+
+Input: o/ 45M w/ HTN + prediabetes. c/o fatigue x1mo. Borderline HbA1c.
+
+Output: Subjective: Fatigue x1mo in hypertensive/prediabetic pt.
+Objective: Borderline HbA1c
+Plan: Recheck in 3 mo, reinforce lifestyle
+
+
+---
+
+s/ — Summarize Notes
+
+Input: Long case on CHF/CKD/AF patient
+
+Brief: CHF patient w/ vol overload → ↑ diuretics, recheck in 1 wk
+Long: Details meds, lab changes, plan + GP follow-up
+
+
+---
+
+e/ — Draft Patient Email
+
+Input: e/ explain mildly elevated cholesterol
+
+Output: Friendly, clinical message with 6-mo recheck plan
+Signoff: Dr [Your Name]
+
+
+---
+
+c/ — De-identify Text
+
+Input: Mickey Mouse, DOB 05/11/1962, vertigo post-COVID
+Output: 62M, post-viral vertigo, BP noted, identifiers removed
+
+
+---
+
+r/ — Referral Letter
+
+Input: Persistent hoarseness in long-term smoker
+Output: ENT referral with clinical context, risk, and reason
+
+
+---
+
+x/ — Export Case Summary
+
+Input: 30s M with PVCs and palpitations
+Output: Full structured case (overview, meds, plan, reasoning)
+
+
+---
+
+sr/ — Suicide Risk (C-SSRS Logic)
+
+Input: PHQ9 item 9 = 2 + bereavement + alcohol + burden
+
+Output: Elevated risk flagged → MH review + safety plan
+
+
+---
+
+g/ — Guideline Validation
+
+Input: DM pt w/ HbA1c 7.4% → plan = 6-mo recheck
+
+Output: “Plan matches BPAC guidelines for stable T2DM”
+
+
+---
+
+For full prompt or to contribute: github.com/drLatta/Goose-GP-copilot
