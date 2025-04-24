@@ -39,6 +39,13 @@ Want to see Goose in action? Check out the Usage Examples for real-world inputs 
 
 ---
 
+Why Goose Exists
+
+Read the Origin Story – how a near-miss cancer diagnosis led to building a GP copilot.
+
+
+---
+
 Commands Overview
 
 See Goose_2.6_OS_Clinical_AI_Copilot.md for the full prompt and usage guide.
