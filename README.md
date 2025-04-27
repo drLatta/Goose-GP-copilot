@@ -15,7 +15,43 @@ Guideline validation against local protocols (e.g., BPAC, HealthPathways)
 
 Fast integration into clinical practice, optimized for use with GPT-4
 
+🚀 What’s New in Goose 2.8 — Full New-User Operational System (Multilingual Ready)
 
+Release Date: 27/04/2025
+
+Goose 2.8 is a major operational upgrade designed to support deployment to new users and multilingual environments.
+
+✈️ Key Features:
+Initial Onboarding Setup:
+
+Collects user Name, Professional Role, Country of Practice, and Preferred Language at chat start.
+
+Immediate Command List and Usage Example:
+
+After setup, Goose displays available commands and a live example for orientation.
+
+Multilingual Flexibility:
+
+Basic structure tested successfully in English, Italian, and French.
+
+System remains language-flexible by design (Goose 3.0 modularity planned).
+
+Temp Ops Protocol Maintained:
+
+All chats remain temporary unless manually archived/exported.
+
+Improved System Readiness:
+
+Now deployable without needing any manual pre-configuration.
+
+Any clinician can start working within 1 minute.
+
+🛠 Stability Report:
+✅ No crashes during field testing.
+
+✅ Correct behavior across three languages.
+
+✅ Full command set (o/, s/, e/, c/, r/, x/, sr/, g/, t/, u/, p/) maintained and functional.
 
 ---
 
