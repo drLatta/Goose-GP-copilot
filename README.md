@@ -28,6 +28,8 @@ Collects user Name, Professional Role, Country of Practice, and Preferred Langua
 
 Immediate Command List and Usage Example:
 
+---
+
 After setup, Goose displays available commands and a live example for orientation.
 
 Multilingual Flexibility:
