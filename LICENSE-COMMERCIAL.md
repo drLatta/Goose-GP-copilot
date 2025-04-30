@@ -12,6 +12,6 @@ If you wish to:
 
 …you must obtain a commercial license from the maintainer.
 
-Contact: [your preferred email]
+Contact: andrea.lattarulo@gmail.com
 
 Unauthorized commercial use is a violation of license terms.
