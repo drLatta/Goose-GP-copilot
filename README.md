@@ -131,11 +131,11 @@ See ETHICS_AND_USAGE.md for the full ethical use statement and liability disclai
 
 ---
 
-License
+## 🛡️ License
 
-MIT License — see LICENSE for terms.
+Goose GP Copilot is dual-licensed under:
 
+- AGPLv3 for open, personal, and academic use
+- A commercial license for any hosted, enterprise, or monetised deployment
 
----
-
-Use it. Modify it. Build something better.
+To inquire about licensing, email andrea.lattarulo@gmail.com
